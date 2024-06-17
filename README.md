@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=25&pause=1000&color=F72222E1&center=true&random=false&width=450&lines=Hassaan+Ghayas" alt="Typing SVG" /></a>
+
 - Hi, I’m @HassaanGhayas
 - Computer Programmer
 - Learning at IT Initiative
